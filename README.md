@@ -27,7 +27,7 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 
 # Most of the people that provoke shark attacks nowadays are men (between years 2000-2018):
 
-In this first inquiry, we recieved conclusive results, men are 90% more likely to provoke shark attacks. 
+In this first inquiry, we received conclusive results, men are 90% more likely to provoke shark attacks. 
 
 ![image1](https://github.com/foscanit/project-I/blob/main/images/sex_percentage.png?raw=true)
 
@@ -57,7 +57,7 @@ This was my intitial thought and I wasn't wrong because according to the researc
 
 # Most of the people that provoke shark attacks are divers. 
 
-But in this hypothesis I was wrong, because the activity that most of the people that provoke shark attacks are performing is fishing! However, we could say it's recreational fishing, instead of a professional activity. 
+But in this hypothesis I was wrong, because the activity that most of the people that provoke shark attacks are performing is fishing! However, according to the data analyzed, we could say it's recreational fishing, instead of a professional activity. 
 
 ![image5](https://github.com/foscanit/project-I/blob/main/images/activities.png?raw=true)
 
@@ -65,4 +65,4 @@ But in this hypothesis I was wrong, because the activity that most of the people
 # In Conclusion
 - Men are more likely to provoke shark attacks, specially during their 20s.
 - Nowadays, most of the people that provoke shark attacks are from Florida, United States.
-- Furthermore, we could say that they provoke these attacks while they are fun fishing. In fact, most of these people recorded -their attack while they were “Shark fishing”, “Fishing for Sharks”, “Fishing illegally”, “Fishing tag and release”, “Surf fishing” “Free diving and spearfishing” and “Kayak fishing for sharks”. 
+- Furthermore, we could say that they provoke these attacks while they are fun fishing. In fact, most of these people recorded -their attacks while they were “Shark fishing”, “Fishing for Sharks”, “Fishing illegally”, “Fishing tag and release”, “Surf fishing” “Free diving and spearfishing” and “Kayak fishing for sharks”. 
